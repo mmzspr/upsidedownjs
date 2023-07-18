@@ -1,0 +1,18 @@
+{
+    "number":{
+        "before": "0ƖᘔƐ߈ϛ9Ɫ86",
+        "after":"0123456789"
+    },
+    "smallAlphabet":{
+        "before": "ɐqɔpǝɟᵷɥᴉɾʞꞁɯuodbɹsʇnʌʍxʎz",
+        "after":"abcdefghijklmnopqrstuvwxyz"
+    },
+    "largeAlphabet":{
+        "before": "ⱯꓭƆᗡƎℲ⅁HIſʞ⅂WNOԀQᴚS⊥ᑎΛMX⅄Z",
+        "after":"ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    },
+    "symbol":{
+        "before" :"v¿¡⅋)(][}{❛˙<>‾„,\\",
+        "after":"^?!&()[]{},.><_\"'/"
+    }
+}
