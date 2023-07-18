@@ -10,8 +10,27 @@
 
 Upsidedown.jsとは実行可能な上下逆さまのJavaScriptです。拡張子は **`.sɾ`**  
 Upsidedown.jsは、Peg.jsで実装したパーサーで抽象構文木（ESTree）に変換し、EscodegenでJavaScriptに変換し実行しています。
-- FizzBuzzのサンプルコード
-https://github.com/mmzspr/upsidedownjs/blob/5c15f96e41a1f3dfb71011e23fdbd6588909a9c9/dist/upsidedownJs/fizzbuzz.s%C9%BE#L1-L18
+### FizzBuzzのサンプルコード
+```
+                                    
+                                   { 
+              ;( ᴉ )ᵷoꞁ˙ǝꞁosuoɔ    
+                                 {    
+                   ;ǝnuᴉʇuoɔ        
+     ;( „zzᴉℲ„ )ᵷoꞁ˙ǝꞁosuoɔ        
+            } ( 0 === Ɛ % ᴉ ) ɟᴉ    
+                                 {    
+                   ;ǝnuᴉʇuoɔ        
+     ;( „zznꓭ„ )ᵷoꞁ˙ǝꞁosuoɔ        
+            } ( 0 === ϛ % ᴉ ) ɟᴉ    
+                                 {    
+                   ;ǝnuᴉʇuoɔ        
+;( „zznꓭzzᴉℲ„ )ᵷoꞁ˙ǝꞁosuoɔ        
+            } ( 0 === ϛƖ % ᴉ )ɟᴉ    
+ } ( ++ ᴉ ;xɐɯ => ᴉ ;Ɩ = ᴉ ʇǝꞁ )ɹoɟ
+                   ;ϛƖ = xɐɯ ʇsuoɔ
+                     ;„ʇɔᴉɹʇs ǝsn„
+```
 
 ## 仕様
 ### 対応する文字
