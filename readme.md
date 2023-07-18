@@ -1,7 +1,15 @@
+
+<div align="center">
+  
 # AltJS：Upsidedown.js
-- Upsidedown.jsとは実行可能な上下逆さまのJavaScriptです。
-- 拡張子：.sɾ
-- Upsidedown.jsは、Peg.jsで実装したパーサーで抽象構文木（ESTree）に変換し、EscodegenでJavaScriptに変換し実行しています。
+  
+  <img src="https://github.com/mmzspr/upsidedownjs/assets/30862527/23da4289-2bb9-4585-ae5b-380bb2385730" width="200">
+</div>
+
+<br>
+
+Upsidedown.jsとは実行可能な上下逆さまのJavaScriptです。拡張子は **`.sɾ`**  
+Upsidedown.jsは、Peg.jsで実装したパーサーで抽象構文木（ESTree）に変換し、EscodegenでJavaScriptに変換し実行しています。
 - FizzBuzzのサンプルコード
 https://github.com/mmzspr/upsidedownjs/blob/5c15f96e41a1f3dfb71011e23fdbd6588909a9c9/dist/upsidedownJs/fizzbuzz.s%C9%BE#L1-L18
 ## 動作確認済み環境
