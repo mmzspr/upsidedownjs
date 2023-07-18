@@ -1,5 +1,8 @@
 # AltJS：Upsidedown.js
-
+- Upsidedown.jsとは実行可能な上下逆さまのJavaScriptです。
+- Upsidedown.jsは、Peg.jsで実装したパーサーで抽象構文木（ESTree）に変換し、EscodegenでJavaScriptに変換し実行しています。
+- FizzBuzzのサンプルコード
+https://github.com/mmzspr/upsidedownjs/blob/5c15f96e41a1f3dfb71011e23fdbd6588909a9c9/dist/upsidedownJs/fizzbuzz.s%C9%BE#L1-L18
 ## 動作確認済み環境
 - Ubuntu22.04
   - node v18.12.1 (npm v8.19.2)
